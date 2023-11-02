@@ -103,7 +103,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>Amazon Snapshot Repo </name>
 	      <url>http://54.152.45.126:8081/repository/amazon-snapshot</url>
 	    </snapshotRepository>
 	    
