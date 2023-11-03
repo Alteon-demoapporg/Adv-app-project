@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Amazon Snapshot Repo </name>
-	      <url>http://54.152.45.126:8081/repository/amazon-snapshot</url>
+	      <url>http://54.144.131.76:8081/repository/amazon-snapshot</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
