@@ -97,7 +97,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Amazon Snapshot Repo </name>
-	      <url>http://100.25.30.83:8081/repository/amazon-snapshot/</url>
+	      <url>http://localhost:8081/repository/Amazon-Repository-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
